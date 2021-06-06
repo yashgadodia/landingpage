@@ -1,0 +1,69 @@
+# Query: https://i.imgur.com/3GdH7sr.png
+# Flags: WordMatch
+# ContextLines: 1
+
+16 results - 8 files
+
+home.html:
+  17      <meta name="twitter:creator" content="@yashquote" />
+  18:     <meta name="twitter:image" content="https://i.imgur.com/CEUvG0d.jpg" />   
+  19      <link rel="icon" type="image/png" href="/yash_favicon.ico" />
+  20      <link rel="apple-touch-icon" href="/yash_favicon.ico"/> 
+  21:     <meta property="og:image" content="https://i.imgur.com/CEUvG0d.jpg" />  
+  22      <link rel="canonical" href="https://yashgadodia.com" />
+
+blog/index.html:
+  17     <meta name="twitter:creator" content="@yashquote" />
+  18:    <meta name="twitter:image" content="https://i.imgur.com/CEUvG0d.jpg" />   
+  19     <link rel="icon" type="image/png" href="/yash_favicon.ico" />
+  20     <link rel="apple-touch-icon" href="/yash_favicon.ico"/> 
+  21:    <meta property="og:image" content="https://i.imgur.com/CEUvG0d.jpg" />  
+  22     <link rel="canonical" href="https://yashgadodia.com" />
+
+blog/everythingelse/4-180-42.html:
+  17      <meta name="twitter:creator" content="@yashquote" />
+  18:     <meta name="twitter:image" content="https://i.imgur.com/CEUvG0d.jpg" />   
+  19      <link rel="icon" type="image/png" href="/yash_favicon.ico" />
+  20      <link rel="apple-touch-icon" href="/yash_favicon.ico"/> 
+  21:     <meta property="og:image" content="https://i.imgur.com/CEUvG0d.jpg" />  
+  22      <link rel="canonical" href="https://yashgadodia.com" />
+
+blog/everythingelse/62-bits-of-unsolicited-advice.html:
+  17      <meta name="twitter:creator" content="@yashquote" />
+  18:     <meta name="twitter:image" content="https://i.imgur.com/CEUvG0d.jpg" />   
+  19      <link rel="icon" type="image/png" href="/yash_favicon.ico" />
+  20      <link rel="apple-touch-icon" href="/yash_favicon.ico"/> 
+  21:     <meta property="og:image" content="https://i.imgur.com/CEUvG0d.jpg" />  
+  22      <link rel="canonical" href="https://yashgadodia.com" />
+
+blog/everythingelse/Beng-Beng-Revolution.html:
+  17      <meta name="twitter:creator" content="@yashquote" />
+  18:     <meta name="twitter:image" content="https://i.imgur.com/CEUvG0d.jpg" />   
+  19      <link rel="icon" type="image/png" href="/yash_favicon.ico" />
+  20      <link rel="apple-touch-icon" href="/yash_favicon.ico"/> 
+  21:     <meta property="og:image" content="https://i.imgur.com/CEUvG0d.jpg" />  
+  22      <link rel="canonical" href="https://yashgadodia.com" />
+
+blog/everythingelse/for7lifetimes.html:
+  17      <meta name="twitter:creator" content="@yashquote" />
+  18:     <meta name="twitter:image" content="https://i.imgur.com/CEUvG0d.jpg" />   
+  19      <link rel="icon" type="image/png" href="/yash_favicon.ico" />
+  20      <link rel="apple-touch-icon" href="/yash_favicon.ico"/> 
+  21:     <meta property="og:image" content="https://i.imgur.com/CEUvG0d.jpg" />  
+  22      <link rel="canonical" href="https://yashgadodia.com" />
+
+blog/shortstories/indiansketches.html:
+  17      <meta name="twitter:creator" content="@yashquote" />
+  18:     <meta name="twitter:image" content="https://i.imgur.com/CEUvG0d.jpg" />   
+  19      <link rel="icon" type="image/png" href="/yash_favicon.ico" />
+  20      <link rel="apple-touch-icon" href="/yash_favicon.ico"/> 
+  21:     <meta property="og:image" content="https://i.imgur.com/CEUvG0d.jpg" />  
+  22      <link rel="canonical" href="https://yashgadodia.com" />
+
+blog/shortstories/workfromhomeday47.html:
+  17      <meta name="twitter:creator" content="@yashquote" />
+  18:     <meta name="twitter:image" content="https://i.imgur.com/CEUvG0d.jpg" />   
+  19      <link rel="icon" type="image/png" href="/yash_favicon.ico" />
+  20      <link rel="apple-touch-icon" href="/yash_favicon.ico"/> 
+  21:     <meta property="og:image" content="https://i.imgur.com/CEUvG0d.jpg" />  
+  22      <link rel="canonical" href="https://yashgadodia.com" />
